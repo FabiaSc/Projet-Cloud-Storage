@@ -8,7 +8,7 @@ import csv
 # Configuration de la connexion Azure
 az_path = "C:\\Program Files\\Microsoft SDKs\\Azure\\CLI2\\wbin\\az.cmd"
 account_name = "stockfabs"
-account_key = "8dGYy8zqDpaDd/oKstPvHihXrpiPOIUFAl9UGD1AyealhKl/HRJ/iqNWl/SnhkqJpXyn34Vm+U7h+AStrcfsJQ=="
+account_key = ""_account_key_""
 container_name = "fabiasch"
 blob_name = "test_auto_upload_1MB.txt"
 local_file = "fichier_1MB.txt" # Nom exact du blob existant sur Azure
